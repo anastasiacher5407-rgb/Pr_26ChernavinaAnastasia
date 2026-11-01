@@ -3,7 +3,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.simpleintents"
+    namespace = "com.example.Pr26_ChernavinaAnastasia"
     compileSdk {
         version = release(36) {
             minorApiLevel = 1
@@ -11,7 +11,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.example.simpleintents"
+        applicationId = "com.example.Pr26_ChernavinaAnastasia"
         minSdk = 24
         targetSdk = 36
         versionCode = 1
