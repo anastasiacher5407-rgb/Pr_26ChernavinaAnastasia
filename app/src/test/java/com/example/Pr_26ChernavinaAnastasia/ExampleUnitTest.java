@@ -1,4 +1,4 @@
-package com.example.simpleintents;
+package com.example.Pr26_ChernavinaAnastasia;
 
 import org.junit.Test;
 
