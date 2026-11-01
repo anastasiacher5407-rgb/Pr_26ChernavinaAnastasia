@@ -8,7 +8,7 @@
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="SimpleIntents"
-        android:theme="@style/Theme.SimpleIntents">
+        android:theme="@style/Theme.Pr26_ChernavinaAnastasia">
 
         <activity
             android:name=".MainActivity"
