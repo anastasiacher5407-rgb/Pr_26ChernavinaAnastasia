@@ -1,4 +1,4 @@
-package com.example.simpleintents;
+package com.example.Pr26_ChernavinaAnastasia;
 
 import android.app.Activity;
 import android.content.Intent;
